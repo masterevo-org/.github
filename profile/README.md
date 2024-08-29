@@ -1,8 +1,5 @@
-
-
 <div align="center">
-  <h1> Masterevo </h1>
-  <img src="https://github.com/user-attachments/assets/989f9ee8-e318-42ea-b072-f1139866cb41" alt="Master EVO Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/cbd22b50-f00e-4d1c-8d3e-3e84f5c75702" alt="Master EVO Logo" width="300"/>
   <h1>Inovação e Tecnologia para a Indústria</h1>
 </div>
 
